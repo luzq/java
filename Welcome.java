@@ -1,5 +1,5 @@
 class myJava {
  void main {
- System.out.println("dasfasdf");
+ System.out.println("中文来了");
  }
 }
